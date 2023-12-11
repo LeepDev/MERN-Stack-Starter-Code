@@ -9,7 +9,7 @@ Here’s the process to create a new MERN-Stack project that starts with the inf
 
 4. Create a .env (touch .env) and add entries for DATABASE_URL and SECRET
 
-5. Update the "name": "mern-infrastructure" in package.json to the name of your project.
+5. Update the "name": "mern-infrastructure" in package.json to the name of your project. Also update the title in the public/index.html
 
 6. Create a new repo on your personal GH account.
 
